@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Home_task4\Task_38a\bin\Debug\net6.0\Task_38a.exe
+C:\Users\User\Desktop\Home_task4\Task_38a\bin\Debug\net6.0\Task_38a.deps.json
+C:\Users\User\Desktop\Home_task4\Task_38a\bin\Debug\net6.0\Task_38a.runtimeconfig.json
+C:\Users\User\Desktop\Home_task4\Task_38a\bin\Debug\net6.0\Task_38a.dll
+C:\Users\User\Desktop\Home_task4\Task_38a\bin\Debug\net6.0\Task_38a.pdb
+C:\Users\User\Desktop\Home_task4\Task_38a\obj\Debug\net6.0\Task_38a.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Home_task4\Task_38a\obj\Debug\net6.0\Task_38a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Home_task4\Task_38a\obj\Debug\net6.0\Task_38a.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Home_task4\Task_38a\obj\Debug\net6.0\Task_38a.AssemblyInfo.cs
+C:\Users\User\Desktop\Home_task4\Task_38a\obj\Debug\net6.0\Task_38a.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Home_task4\Task_38a\obj\Debug\net6.0\Task_38a.dll
+C:\Users\User\Desktop\Home_task4\Task_38a\obj\Debug\net6.0\refint\Task_38a.dll
+C:\Users\User\Desktop\Home_task4\Task_38a\obj\Debug\net6.0\Task_38a.pdb
+C:\Users\User\Desktop\Home_task4\Task_38a\obj\Debug\net6.0\Task_38a.genruntimeconfig.cache
+C:\Users\User\Desktop\Home_task4\Task_38a\obj\Debug\net6.0\ref\Task_38a.dll
